@@ -1,0 +1,12 @@
+# SQL Server Management Studio / Visual Studio
+*.ssmssln
+*.suo
+*.user
+*.sqlproj.user
+bin/
+obj/
+.vs/
+
+# OS
+Thumbs.db
+.DS_Store
